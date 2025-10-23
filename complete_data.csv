@@ -1,0 +1,150 @@
+CROP,CARBON ,NITROGEN
+Sugar cane husks,34.7,0.35
+Coffee husks,38.1,1.75
+Cotton stalks,34.2,1.92
+Mixed Grass,30.5,1.83
+Papyrus,31.4,0.99
+Elephant grass,26.9,1.4
+Bananas,31.2,0.9
+Millet,32.6,1.6
+Maize,32.9,0.53
+Sorghum,28.4,1.1
+Rice,24.8,1.2
+Wheat,31.4,1.4
+Potatoes,36.5,1.23
+Cassava,33.2,2.3
+Beans,29.7,0.7
+Peas,29.7,3.3
+Peanuts,29.6,1.4
+Soybeans,33.5,2.1
+Sugar cane husks,34.7,0.35
+Coffee husks,38.1,1.75
+Cotton stalks,34.2,1.92
+Banana (biomass),31.2,0.9
+Millet,32.6,1.6
+Maize,32.9,0.53
+Sorghum,28.4,1.1
+Rice,24.8,1.2
+Wheat,31.4,1.4
+Potatoes,36.5,1.23
+Beans (various),29.7,0.70 - 3.30
+Soybean,33.5,2.1
+Peanuts,29.6,1.4
+"Cover crops: Jack bean, Velvet bean, Rattlepod",40-47 ,1.2-1.4 
+Sugar cane husks,34.7,0.35
+Coffee husks,38.1,1.75
+Cotton stalks,34.2,1.92
+Banana biomass,31.2,0.9
+Millet,32.6,1.6
+Maize stover,32.9,0.53
+Sorghum stalks,28.4,1.1
+Rice husks,24.8,1.2
+Wheat straw,31.4,1.4
+Alfalfa,4.3,0.25
+Soybean residues,33.5,2.1
+Cover crop Velvet bean,47.4,1.24
+Cover crop Jack bean,46.3,1.25
+Cover crop Rattlepod,40.9,1.44
+Rattlepod (Crotalaria juncea),410 - 475 ,1.44 - 1.32 
+Jack Bean (Canavalia ensiformis),463 - 474 ,1.25
+Lablab bean (Dolichos lablab),456,1.23
+Velvet bean (Mucuna cinerea),474,1.24
+Millet (Pennisetum americanum),456,1.21
+Sugar cane husks,34.7,0.35
+Coffee husks,38.1,1.75
+Cotton stalks,34.2,1.92
+Bananas,31.2,0.9
+Millet,32.6,1.6
+Maize,32.9,0.53
+Rice,24.8,1.2
+Wheat,31.4,1.4
+Alfalfa,4.3,0.25
+Soybean,33.5,2.1
+Cotton stalks,34.7,0.35
+Mixed grass (Gramineae),38.1,1.75
+Papyrus (Cyperus),34.2,1.92
+Elephant grass (Typha),30.5,1.83
+Bananas (Musa L.),31.4,0.99
+Millet (Panicum L.),26.9,1.4
+Maize (Zea mays),31.2,0.9
+Sorghum (Sorghum L.),32.6,1.6
+Rice (Oryza sativa),32.9,0.53
+Wheat (Triticum aestivum),28.4,1.1
+Potatoes (Solanum tuberosum),24.8,1.2
+Cassava (Manihot esculenta),31.4,1.4
+Beans (Vicia sp.),36.5,1.23
+Peas (Pisum sp.),33.2,2.3
+Peanuts (Arachis hypogaea),29.7,0.7
+Soybeans (Glycine max),29.7,3.3
+Cover Crop Velvet Bean,29.6,1.4
+Cover Crop Jack Bean,33.5,2.1
+Cover Crop Rattlepod,47.4,1.24
+Phalaenopsis Orchid Leaves,46.3,1.25
+Grass-clover silage (mixture),40.9,1.44
+Rice straw,24.8,1.2
+Wheat straw,31.4,1.4
+Maize (corn) straw,32.9,0.53
+Millet,32.6,1.6
+Sorghum straw,28.4,1.1
+Soybean straw,33.5,2.1
+Potato residues,36.5,1.23
+Cassava residues,33.2,2.3
+Bean residues,29.7,0.7
+Peas,29.7,3.3
+Peanuts,29.6,1.4
+Alfalfa hay,44.4,3.03
+Coffee grounds,49.7,2.31
+Sawdust,46.5,0.07
+Cardboard,42.1,0.11
+Rye Straw,82,1
+Wheat Straw,80,1
+Oat Straw,70,1
+Corn Stover,57,1
+Rye Cover Crop (Anthesis),37,1
+Pea Straw,29,1
+Rye Cover Crop (Vegetative),26,1
+Mature Alfalfa Hay,25,1
+Ideal Microbial Diet,24,1
+Rotted Barnyard Manure,20,1
+Legume Hay,17,1
+Beef Manure,17,1
+Young Alfalfa Hay,13,1
+Hairy Vetch Cover Crop,11,1
+Soil Microbes (Average),8,1
+Annual Ryegrass,20.5,1
+Crimson Clover,21.2,1
+Alfalfa,11.3,1
+Sorghum-Sudan Grass,63.3,1
+Spring barley,38.9,5.1
+Peas,42.6,9
+Fodder bean,35.5,11.3
+Narrow-leaved lupine,41.8,8.4
+Spring barley,40.5,7
+Peas,44.9,17.6
+Fodder bean,38.8,8.9
+Narrow-leaved lupine,43.5,10.8
+Sawdust,200,750
+Paper (domestic),127,178
+Fir bark,540,100
+Hardwood bark,116,436
+Softwood bark,131,1285
+Corn stalks,1.2,56.6
+Rice straw,0.6-0.7,51-67
+Corn cobs,1,49.9-98
+Peanut hulls,1.7,31
+Bagasse (sugarcane),0.3-0.4,140-150
+Kitchen waste,54.34,1.9
+Leaves,40 - 80,1.9
+Pine needles,60 - 110,1.9
+Seaweed,30,1.9
+Yard waste,30,1.9
+Blood meal,9,3
+Hog manure,38.36,2.8
+Carabao manure,36.96,1.6
+Cow manure,28.22-42.5,1.7
+Chicken manure,31.5-46.0,6.3
+Duck manure,21.92,0.8
+Goose manure,52.06,1.9
+Humanure,274,10
+Pig manure,23.56-47.5,3.8
+Sheep manure,125.4,3.8
